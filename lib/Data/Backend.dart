@@ -42,7 +42,8 @@ class Backend {
         "",
         "",
         "Aurangabad",
-        "Maharashtra"
+        "Maharashtra",
+        "Bibi Ka Maqbara, also known as the Taj of the Deccan, is a historical monument located in Aurangabad, Maharashtra, India. It was built by Mughal Emperor Aurangzeb in memory of his wife, Dilras Banu Begum, also known as Rabia-ud-Daurani. The mausoleum bears a striking resemblance to the Taj Mahal in Agra, though on a smaller scale. While it is a beautiful and historically significant monument, it is often overshadowed by the grandeur and fame of the Taj Mahal. Nevertheless, Bibi Ka Maqbara is an important historical site in India and is frequently visited by tourists interested in Mughal architecture and history."
       ],
       [
         "Hazira Maqbara",
@@ -57,7 +58,8 @@ class Backend {
         "",
         "",
         "Vadodara",
-        "Gujarat"
+        "Gujarat",
+        "Hazira Maqbara, also known as the Tomb of Hazrat Makhdoom Ali Mahimi, is a significant historical and religious monument located in Mahim, Mumbai, India. It is the tomb of Hazrat Makhdoom Ali Mahimi, a revered Sufi saint who lived during the 14th century. The mausoleum is an important pilgrimage site for followers of Sufism and Islam in India. While Hazira Maqbara may not be as well-known as some other historical sites in India, it holds great religious and cultural significance for those who follow Sufi traditions. It is a place of reverence and is visited by devotees who come to pay their respects to the Sufi saint."
       ],
       [
         "Aga Khan Palace",
@@ -72,7 +74,8 @@ class Backend {
         "",
         "",
         "Pune",
-        "Maharashtra"
+        "Maharashtra",
+        "The Aga Khan Palace is indeed a notable historical monument in India. It is located in Pune, Maharashtra, and is of significant historical and architectural importance. The palace was built in 1892 by Sultan Muhammed Shah Aga Khan III, who was the 48th Imam of the Nizari Ismaili sect of Shia Islam. The Aga Khan Palace served as a philanthropic project to provide employment to the famine-stricken people of the region during its construction.The palace is also closely associated with India's struggle for independence because it served as a prison for Mahatma Gandhi and other prominent leaders of the Indian freedom movement during the Quit India Movement in 1942. Today, the Aga Khan Palace is a museum and a memorial dedicated to Mahatma Gandhi and his associates."
       ],
       [
         "Bahu Begum ka Maqbara",
@@ -87,7 +90,8 @@ class Backend {
         "",
         "",
         "Faizabad",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "Bahu Begum ka Maqbara, also known as the Maqbara of Queen Bahu Begum, is another significant historical monument located in Faizabad, Uttar Pradesh, India. It is the mausoleum of Queen Bahu Begum, the wife of Nawab Shuja-ud-Daula, the third Nawab of Awadh (Oudh). The mausoleum is known for its beautiful Mughal architecture and intricate design. Bahu Begum ka Maqbara is one of the prominent historical attractions in Faizabad, and it reflects the architectural grandeur of the Mughal era. The tomb is surrounded by lush gardens, and its white marble structure is adorned with intricate carvings and calligraphy. While it may not be as famous as some other Mughal-era monuments like the Taj Mahal, it is still an important historical site and a testament to the architectural and cultural heritage of the region."
       ],
       [
         "Bara Imambara",
@@ -102,7 +106,8 @@ class Backend {
         "",
         "",
         "Lucknow",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "The Bara Imambara, also known as Asafi Imambara, is a prominent historical and architectural marvel located in Lucknow, Uttar Pradesh, India. It was built by Nawab Asaf-ud-Daula of Awadh (Oudh) during the late 18th century as a part of a relief project during a severe famine. The main hall of the Bara Imambara is one of the largest arched constructions in the world that does not use supporting beams or pillars. The central hall, known as the Bara (big) Imambara, is also home to a fascinating labyrinth called the Bhulbhulaiya, which is a complex maze of narrow corridors.The Bara Imambara is a significant tourist attraction and a symbol of Lucknow's rich cultural heritage. It is not only known for its architectural uniqueness but also for its historical and cultural significance."
       ],
       [
         "Red Fort",
@@ -117,7 +122,8 @@ class Backend {
         "",
         "http://delhitourism.gov.in/delhitourism/tourist_place/red_fort.jsp",
         "New Delhi",
-        "Delhi"
+        "Delhi",
+        "The Red Fort, also known as the Lal Qila, is one of the most iconic historical monuments in India. It is located in the city of Delhi and is a UNESCO World Heritage Site. The Red Fort was built by the Mughal Emperor Shah Jahan in the 17th century and served as the main residence of the Mughal emperors for about 200 years.The Red Fort is renowned for its stunning red sandstone architecture and intricate Mughal design. It is an important symbol of India's rich history and culture. The fort is a popular tourist destination and is visited by millions of people from around the world every year.The Red Fort is known for its impressive main gate, the Lahori Gate, as well as its various pavilions, halls, and gardens. It is also famous for its annual Independence Day celebrations when the Prime Minister of India hoists the national flag from the fort's ramparts."
       ],
       [
         "St Thomas Fort",
@@ -132,7 +138,8 @@ class Backend {
         "",
         "",
         "Kollam",
-        "Kerala"
+        "Kerala",
+        "St. Thomas Fort, also known as Fort St. George, is a historic fort located in Chennai (formerly Madras), Tamil Nadu, India. It was founded by the British East India Company in 1644. St. Thomas Fort, also known as Fort St. George, is a historically significant fort in Chennai with ties to the early days of British colonial presence in India. It has played a pivotal role in the history and development of the city and the region."
       ],
       [
         "Taj Mahal",
@@ -147,7 +154,8 @@ class Backend {
         "",
         "http://www.tajmahal.gov.in/",
         "Agra",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "The Taj Mahal is an iconic white marble mausoleum located in Agra, Uttar Pradesh, India. Commissioned by Mughal Emperor Shah Jahan in the 17th century, it stands as a symbol of enduring love, built in memory of his beloved wife Mumtaz Mahal. Renowned for its exquisite architectural beauty and intricate craftsmanship, the Taj Mahal attracts millions of visitors worldwide. Its central dome and four minarets grace the banks of the Yamuna River, creating a breathtaking reflection in the surrounding gardens. Recognized as a UNESCO World Heritage Site, it remains an enduring testament to the timeless artistry and love that transcends generations."
       ],
       [
         "Dhenkanal Palace",
@@ -162,7 +170,8 @@ class Backend {
         "",
         "",
         "India",
-        "Odisha"
+        "Odisha",
+        ""
       ],
       [
         "DhenkanalBara Gumbad",
