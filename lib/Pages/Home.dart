@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:heritage_app_lemon/MyRoutes.dart';
 import 'package:heritage_app_lemon/Wigets.dart/Transparent.dart';
 
 class HomePage extends StatefulWidget {
@@ -28,7 +29,7 @@ class _HomePageState extends State<HomePage> {
                 child: Stack(
                   children: [
                     Transparent().transparentButton(100, 100, "Next Page",
-                        _color, () => print("Next Page")),
+                        _color, () => Navigator.pushNamed(context, MyRoutes.view)),
                     //Start from here
                     Transparent().transparentButton(260, 640, "Tamil Nadu",
                         _color, () => print("Tamil Nadu")),

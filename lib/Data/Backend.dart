@@ -12,7 +12,7 @@ class Backend {
     return jsonDataList;
   }
 
-  Future<List<List<String>>> data() async {
+  List<List<String>> data(){
     return [
       [
         "name",

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:heritage_app_lemon/MyRoutes.dart';
 import 'package:heritage_app_lemon/Pages/Home.dart';
 import 'package:heritage_app_lemon/Pages/SplashScreen.dart';
+import 'package:heritage_app_lemon/Pages/View.dart';
 
 void main() => runApp(HeritageApp());
 
@@ -38,7 +39,8 @@ class _HeritageAppState extends State<HeritageApp> {
       initialRoute: MyRoutes.home,
       routes: {
         MyRoutes.home: (context) => HomePage(),
-        MyRoutes.splashScreen: (context) => SplashScreen()
+        MyRoutes.splashScreen: (context) => SplashScreen(),
+        MyRoutes.view: (context) => ViewPage(),
       },
     );
   }
