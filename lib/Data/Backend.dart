@@ -171,7 +171,7 @@ class Backend {
         "",
         "India",
         "Odisha",
-        ""
+        "Dhenkanal Palace, located in Dhenkanal, Odisha, India, is a historic royal residence that offers a glimpse into the region's architectural heritage. This palace served as the residence for the rulers of Dhenkanal State. With its regal architecture and rich history, it stands as a testament to the opulence and culture of its bygone era. The palace, while still preserving its grandeur, has also evolved to accommodate modern uses. Today, it remains a significant landmark in Dhenkanal, attracting visitors interested in exploring the history and architectural marvels of Odisha."
       ],
       [
         "DhenkanalBara Gumbad",
@@ -186,7 +186,8 @@ class Backend {
         "",
         "",
         "New Delhi",
-        "Delhi"
+        "Delhi",
+        "Dhenkanal Bara Gumbad, located in Dhenkanal, Odisha, is a historical monument of architectural significance. The name Bara Gumbad translates to Twelve Domes, and it aptly describes this structure. While the exact historical context of the monument may vary, it is known for its distinctive twelve-pillared structure and the intricate craftsmanship that adorns its facade. The monument stands as a testament to the region's rich heritage and architectural prowess. It is an attraction for history enthusiasts and tourists alike, offering a glimpse into the cultural and historical tapestry of Dhenkanal and its surroundings."
       ],
       [
         "Fort Emmanuel",
@@ -201,7 +202,8 @@ class Backend {
         "",
         "",
         "Kochi",
-        "Kerala"
+        "Kerala",
+        "Fort Emmanuel is a historic Portuguese fort located in Fort Kochi, Kerala, India. It was constructed in 1503 and is a testament to the early colonial presence of the Portuguese in India. The fort played a significant role in the colonial era as a symbol of Portuguese power and control. Its strategic location on the Arabian Sea made it a crucial defense point. Today, Fort Emmanuel stands as a historical monument, offering visitors a glimpse into India's colonial past. It is a popular tourist attraction, attracting history enthusiasts and travelers interested in exploring the rich heritage of Kerala."
       ],
       [
         "Ganga Mahal Ghat (I)",
@@ -216,7 +218,8 @@ class Backend {
         "",
         "",
         "Varanasi",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "Ganga Mahal Ghat (I) is a revered riverbank in Varanasi, Uttar Pradesh, India, nestled along the sacred Ganges River. This ghat holds deep religious and cultural significance in Hinduism. Pilgrims and devotees gather here for various rituals, including prayer, bathing, and cremation ceremonies. It's a tranquil place where spirituality and tradition intersect. The sight of devotees immersed in prayer and the shimmering waters of the Ganges at sunrise and sunset adds to its serene charm. Ganga Mahal Ghat embodies the timeless spirituality and cultural heritage of Varanasi, making it a vital part of the city's spiritual tapestry and a must-visit destination for travelers."
       ],
       [
         "Golaghat Baptist Church",
@@ -231,7 +234,8 @@ class Backend {
         "",
         "",
         "Golaghat",
-        "Assam"
+        "Assam",
+        "The Golaghat Baptist Church is a significant historical landmark located in Golaghat, Assam, India. This charming church stands as a testament to colonial-era architecture and serves as a place of worship for the Christian community in the region. Its architectural beauty and historical value make it a noteworthy site for visitors interested in exploring the heritage of Assam. The church's serene ambiance and picturesque surroundings add to its appeal, attracting both worshippers and tourists alike. It remains a symbol of faith and a piece of Golaghat's rich cultural tapestry, reminding us of the enduring influence of colonial history in the heart of Assam."
       ],
       [
         "Jantar Mantar",
@@ -246,7 +250,8 @@ class Backend {
         "77.1999969482",
         "",
         "New Delhi",
-        "Delhi"
+        "Delhi",
+        "Jantar Mantar is a collection of architectural astronomical instruments built in the early 18th century in several Indian cities, including Delhi, Jaipur, and others. These structures were constructed by Maharaja Jai Singh II of Jaipur, an avid astronomer, to observe and calculate celestial movements. The term Jantar Mantar means instrument for calculation in Sanskrit. The site consists of various large-scale instruments, such as sundials, astrolabes, and geometric devices, designed to measure time, track stars, and predict eclipses with remarkable precision. Jantar Mantar is not only an architectural marvel but also a testament to India's rich scientific and cultural heritage, attracting scholars and tourists alike."
       ],
       [
         "Observatory of Man Singh",
@@ -261,7 +266,8 @@ class Backend {
         "83",
         "",
         "Varanasi",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "The Observatory of Man Singh, also known as Jantar Mantar, is a collection of architectural astronomical instruments located in several cities across India, including Jaipur, Delhi, and Varanasi. Constructed in the 18th century by Maharaja Sawai Jai Singh II of Jaipur, it served as a remarkable observatory for accurate celestial observations. These instruments, made of stone and marble, were designed to measure time, track celestial objects, and predict eclipses with remarkable precision. Jantar Mantar is not only a testament to India's scientific heritage but also a UNESCO World Heritage Site, attracting visitors interested in astronomy, history, and architecture from around the world."
       ],
       [
         "Lalita Ghat",
@@ -276,7 +282,8 @@ class Backend {
         "",
         "",
         "Varanasi",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "Lalita Ghat is a revered riverside location situated in Varanasi, India. This ancient ghat holds immense spiritual significance for Hindus, offering a sacred space for various rituals and ceremonies. Pilgrims and locals gather here to take part in religious practices, including bathing in the holy Ganges River and performing cremation rites for their departed loved ones. Lalita Ghat's serene ambiance, with its historic structures and the gentle flow of the river, creates a tranquil setting for reflection and devotion. It remains an integral part of Varanasi's rich cultural and spiritual tapestry, attracting visitors seeking a deeper connection with India's spiritual heritage."
       ],
       [
         "Mahmud Gawan Madrasa",
@@ -291,7 +298,8 @@ class Backend {
         "",
         "",
         "Bidar",
-        "Karnataka"
+        "Karnataka",
+        "Mahmud Gawan Madrasa is a historical edifice located in Bidar, Karnataka, India. Constructed in the 15th century during the reign of the Bahmani Sultanate, it serves as a remarkable example of Indo-Islamic architecture. This elegant structure once served as a center for Islamic education and scholarly pursuits. The madrasa boasts intricate stone carvings, arched doorways, and a central courtyard. Despite its historical significance, Mahmud Gawan Madrasa fell into disrepair over the centuries. Today, it stands as a testament to India's rich cultural and architectural heritage, drawing history enthusiasts and tourists to admire its grandeur and historical relevance."
       ],
       [
         "Tomb of Sikandar Lodi",
@@ -306,7 +314,8 @@ class Backend {
         "",
         "",
         "New Delhi",
-        "Delhi"
+        "Delhi",
+        "The Tomb of Sikandar Lodi is a historical mausoleum located in Delhi, India. It was built in 1517-1518 as the final resting place of Sikandar Lodi, the second ruler of the Lodi dynasty. The tomb is an architectural marvel of its time, characterized by its octagonal shape, intricate decorative features, and lush green surroundings. It serves as a testament to the Indo-Islamic architectural style. The tomb stands as a significant historical site, reflecting the grandeur and cultural richness of the Lodi dynasty's reign. Visitors are drawn to its serene ambiance and historical importance, making it a popular attraction in Delhi."
       ],
       [
         "Sarasbaug",
@@ -321,7 +330,8 @@ class Backend {
         "",
         "http://www.sarasbaug.in/",
         "Pune",
-        "Maharashtra"
+        "Maharashtra",
+        "Sarasbaug is a picturesque garden located in Pune, Maharashtra, India. This serene urban oasis is a favorite spot among locals and tourists alike. The highlight of Sarasbaug is the beautiful Ganesh Temple situated on an artificial island in the midst of a tranquil lake. The temple is dedicated to Lord Ganesha, the Hindu elephant-headed god of wisdom and prosperity. Visitors can take leisurely strolls in the lush green gardens, enjoy boating on the lake, and take in the breathtaking views of the city from atop a hill. Sarasbaug offers a peaceful escape from the hustle and bustle of city life, making it a cherished destination for relaxation and spirituality."
       ],
       [
         "Shish Gumbad",
@@ -336,7 +346,8 @@ class Backend {
         "",
         "",
         "New Delhi",
-        "Delhi"
+        "Delhi",
+        "Shish Gumbad, located in Delhi, India, is an exquisite architectural marvel that dates back to the 15th century. This elegant structure, often referred to as the Glass Dome, is a prominent example of Indo-Islamic architecture. Its name is derived from the glazed blue tiles that once adorned its exterior. Shish Gumbad is believed to have served as a tomb for an unknown noble during the Lodhi dynasty. The tomb's octagonal shape and intricate details make it a significant historical and artistic attraction, providing a glimpse into the rich heritage of Delhi's historical monuments. Visitors are captivated by its unique design and historical significance."
       ],
       [
         "Church and Convent of St. Francis of Assisi",
@@ -351,7 +362,8 @@ class Backend {
         "",
         "",
         "Old Goa",
-        "Goa"
+        "Goa",
+        "The Church and Convent of St. Francis of Assisi, located in Old Goa, India, is a historical and religious landmark dating back to the 17th century. This site, constructed by the Portuguese, represents the rich architectural and cultural legacy of Goa's colonial history. The complex includes a stunning church and a convent, showcasing the intricate Manueline and Mannerist architectural styles. The church is renowned for its beautifully carved wooden altar, while the convent once housed Franciscan friars. Today, this UNESCO World Heritage Site is not only a place of worship but also a captivating destination for history enthusiasts and tourists exploring the colonial heritage of Goa."
       ],
       [
         "Statue of Edward VII",
@@ -367,7 +379,8 @@ class Backend {
         "",
         "",
         "Bangalore",
-        "Karnataka"
+        "Karnataka",
+        "The Statue of Edward VII is a bronze sculpture located in various cities across India. It is a symbol of British colonial influence in the subcontinent. The statue depicts King Edward VII, who ruled the United Kingdom from 1901 to 1910. It stands as a historical artifact, reminding viewers of the British imperial era in India. These statues have faced varying degrees of controversy in post-independence India, as they are associated with a colonial past. Some have been relocated or removed, while others remain as historical landmarks. The statues serve as reminders of India's complex colonial history and the subsequent efforts to redefine its national identity."
       ],
       [
         "Statue of Queen Victoria",
@@ -383,7 +396,8 @@ class Backend {
         "",
         "",
         "Bangalore",
-        "Karnataka"
+        "Karnataka",
+        "The Statue of Queen Victoria, an iconic monument, stands as a symbol of colonial-era history in many parts of the world. Crafted in the likeness of Queen Victoria, who reigned over the British Empire during the 19th century, this statue typically depicts her in a regal pose, often holding a scepter and orb. These statues were erected in several countries during the British colonial period, signifying the influence and presence of the British Empire. Today, they serve as historical landmarks and reminders of that bygone era. While some view them as relics of the past, others appreciate them for their historical and artistic significance."
       ],
       [
         "Jinnah Tower",
@@ -398,7 +412,8 @@ class Backend {
         "",
         "",
         "Guntur",
-        "Andhra Pradesh"
+        "Andhra Pradesh",
+        "Jinnah Tower, also known as Mahatma Gandhi Hall, is an iconic monument in Gwalior, India. This towering structure stands as a tribute to the Father of the Nation, Mahatma Gandhi, and Pakistan's founder, Muhammad Ali Jinnah. Completed in 1972, it's an architectural marvel, combining elements of Indian and Islamic design. The tower is a prominent landmark in Gwalior, offering panoramic views of the city. It houses a museum and a library, providing valuable historical and cultural insights. Jinnah Tower is not only a testament to India's rich history but also a symbol of unity and respect for two great leaders."
       ],
       [
         "Churches and convents of Goa",
@@ -413,7 +428,8 @@ class Backend {
         "",
         "",
         "Old Goa",
-        "Goa"
+        "Goa",
+        "The Churches and Convents of Goa are a UNESCO World Heritage Site, collectively representing the rich historical and architectural legacy of Goa, India. These structures date back to the Portuguese colonial era, reflecting a unique blend of European and Indian influences. Some of the most notable sites include the Basilica of Bom Jesus, Se Cathedral, and the Church of St. Cajetan. These religious buildings are characterized by their intricate Baroque and Mannerist architectural styles, stunning facades, and ornate interiors. They stand as enduring testimonies to the cultural exchange and religious heritage of Goa during the colonial period, attracting visitors from around the world."
       ],
       [
         "Great Living Chola Temples",
@@ -428,7 +444,8 @@ class Backend {
         "",
         "https://asi.nic.in/chola-temple-brhadisvara/",
         "Thanjavur",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "The Great Living Chola Temples are a UNESCO World Heritage Site in southern India, renowned for their architectural and cultural significance. These temples, dating back to the Chola dynasty of the 11th and 12th centuries, include the Brihadisvara Temple in Thanjavur, the Temple of Gangaikondacholisvaram, and the Airavatesvara Temple in Darasuram. They are exemplary of Dravidian temple architecture, characterized by intricate carvings, towering gopurams (entrance towers), and exquisite sculptures. These temples continue to be active centers of worship and pilgrimage, preserving the rich heritage of Chola civilization while attracting visitors from around the world with their grandeur and historical importance."
       ],
       [
         "Group of Monuments at Mahabalipuram",
@@ -443,7 +460,8 @@ class Backend {
         "",
         "https://asi.nic.in/mahabalipuram/",
         "Mamallapuram",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "The Group of Monuments at Mahabalipuram, a UNESCO World Heritage Site, comprises a collection of stunning rock-cut temples and sculptures that date back to the 7th and 8th centuries. Located on the coastal shores of the Bay of Bengal in Tamil Nadu, India, these magnificent structures represent a significant era of Indian art and architecture. Carved from granite rock, they include intricately designed temples, monolithic shrines, cave sanctuaries, and iconic sculptures like the famous Descent of the Ganges. These monuments are not only a testament to the artistic prowess of their time but also serve as a cultural and historical treasure, drawing visitors and scholars from around the world."
       ],
       [
         "Adichanallur",
@@ -458,7 +476,8 @@ class Backend {
         "",
         "",
         "Tirunelveli",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "Adichanallur is an ancient archaeological site located in the southern part of India, near the town of Thoothukudi in Tamil Nadu. It gained prominence for its significant discoveries of artifacts and burial sites dating back to the Indus Valley Civilization and megalithic periods. These findings include pottery, tools, jewelry, and human skeletons, shedding light on the cultural and historical aspects of ancient South India. Adichanallur is a crucial archaeological site that has provided valuable insights into the prehistoric and early historic periods of the region, contributing to our understanding of the ancient civilizations that once thrived there."
       ],
       [
         "Tellicherry Fort",
@@ -473,7 +492,8 @@ class Backend {
         "",
         "",
         "Thalassery",
-        "Kerala"
+        "Kerala",
+        "Tellicherry Fort, also known as Thalassery Fort, is a historic fort located in Thalassery, Kerala, India. It was constructed by the British East India Company in the late 18th century and is a symbol of colonial influence in the region. The fort served as a military stronghold during the colonial era and played a significant role in the spice trade. Today, it stands as a well-preserved historical monument, attracting visitors interested in its architecture and history. The fort's strategic location offers panoramic views of the Arabian Sea, making it a picturesque site for tourists exploring Kerala's cultural and historical heritage."
       ],
       [
         "Thiruvallam Sree Parasurama Temple",
@@ -488,7 +508,8 @@ class Backend {
         "",
         "",
         "Thiruvananthapuram",
-        "Kerala"
+        "Kerala",
+        "Thiruvallam Sree Parasurama Temple is a revered Hindu temple located in Thiruvallam, near Thiruvananthapuram, Kerala, India. It is dedicated to Lord Parasurama, the sixth avatar of Lord Vishnu. This ancient temple holds immense religious significance and is known for its serene and picturesque location along the banks of the Karamana River. Devotees visit the temple to seek blessings, perform rituals, and participate in various festivals. The temple's architecture reflects traditional Kerala style, with intricate woodwork and beautiful murals. Thiruvallam Sree Parasurama Temple offers a tranquil spiritual atmosphere, making it a place of devotion and solace for worshippers and tourists alike."
       ],
       [
         "Tiruchirappalli Fort",
@@ -503,7 +524,8 @@ class Backend {
         "",
         "",
         "Tiruchirappalli",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "Tiruchirappalli Fort, often referred to as Trichy Fort, is a historic fortification in Tiruchirappalli, Tamil Nadu, India. This impressive fort has a rich history, dating back to the 13th century when it was originally built by the Chola dynasty. Over time, it underwent expansions and renovations by various rulers, including the Nayaks and Marathas. The fort is characterized by its massive stone walls, intricate architecture, and a blend of various architectural styles. Today, it stands as a testament to the region's historical significance and serves as a popular tourist attraction, drawing visitors interested in history, architecture, and culture."
       ],
       [
         "Tiruchirappalli Fort railway station",
@@ -518,7 +540,8 @@ class Backend {
         "",
         "",
         "Tiruchirappalli",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "Tiruchirappalli Fort Railway Station, located in Tiruchirappalli, Tamil Nadu, is a significant transportation hub in southern India. It serves as a vital link for passengers traveling to and from the city. The station is known for its historical importance and architectural charm, reflecting a blend of traditional and modern design elements. It provides convenient access to the renowned Rockfort Temple and other attractions in Tiruchirappalli. With its well-maintained platforms and essential passenger amenities, Tiruchirappalli Fort Railway Station facilitates the smooth movement of trains and passengers, contributing to the region's connectivity and transportation network."
       ],
       [
         "Tiruchirappalli Town railway station",
@@ -533,7 +556,8 @@ class Backend {
         "",
         "",
         "Tiruchirappalli",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "Tiruchirappalli Town Railway Station, located in Tiruchirappalli, Tamil Nadu, is a vital transportation hub in southern India. Serving as a key railway junction, it facilitates smooth connectivity for passengers traveling across the region. The station boasts modern amenities and passenger services, ensuring a comfortable travel experience. Its strategic location and efficient rail network make it a pivotal transportation hub, contributing to Tiruchirappalli's economic and cultural vibrancy. With its well-maintained platforms and passenger facilities, Tiruchirappalli Town Railway Station plays a significant role in the seamless movement of people and goods, reflecting its importance in the Indian railway system."
       ],
       [
         "Vivekananda Rock Memorial",
@@ -548,7 +572,8 @@ class Backend {
         "",
         "",
         "Kanyakumari",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "The Vivekananda Rock Memorial is a revered pilgrimage site in India, located on a small island off the coast of Kanyakumari in Tamil Nadu. This iconic monument was built in honor of Swami Vivekananda, the renowned Indian philosopher and spiritual leader, who meditated on this rock in 1892. The memorial features a striking blend of traditional and modern architectural styles, including a meditation hall that offers breathtaking views of the Indian Ocean. Pilgrims and tourists visit the memorial to pay homage to Swami Vivekananda and to experience the spiritual aura of this serene location, making it a symbol of India's spiritual heritage."
       ],
       [
         "Sanchi",
@@ -563,7 +588,8 @@ class Backend {
         "Budista",
         "",
         "Sanchi Town",
-        "Madhya Pradesh"
+        "Madhya Pradesh",
+        "Sanchi, located in the Indian state of Madhya Pradesh, is renowned for its historical and cultural significance. It is home to a remarkable collection of Buddhist monuments, including stupas, monasteries, temples, and pillars, dating back to the 3rd century BCE. The most iconic structure is the Great Stupa, a UNESCO World Heritage Site, which serves as a symbol of Buddhist art and architecture. Sanchi's monuments offer a glimpse into India's rich Buddhist heritage, attracting visitors and pilgrims from around the world. The site's serene ambiance and historical value make it a must-visit destination for those interested in India's ancient history and Buddhism."
       ],
       [
         "Se Cathedral",
@@ -578,7 +604,8 @@ class Backend {
         "",
         "",
         "Old Goa",
-        "Goa"
+        "Goa",
+        "The Se Cathedral, located in Old Goa, India, is a magnificent Roman Catholic cathedral known for its stunning Portuguese-Manueline architecture. Built in the 16th century, it is one of Asia's largest churches and a UNESCO World Heritage Site. The cathedral is dedicated to St. Catherine and is a symbol of Portuguese rule in Goa during the colonial era. Its grandeur is evident in its massive bell known as the Golden Bell, which is one of the largest in Asia. The Se Cathedral is not only a place of religious significance but also an architectural marvel and a historical treasure that attracts visitors from around the world."
       ],
       [
         "Krishna Janmasthan Temple Complex",
@@ -593,7 +620,8 @@ class Backend {
         "",
         "",
         "Mathura",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "The Krishna Janmasthan Temple Complex is a revered religious site in Mathura, Uttar Pradesh, India. It is believed to be the birthplace of Lord Krishna, a significant deity in Hinduism. The complex comprises various temples, shrines, and historical structures, including the Kesava Deo Temple, the Krishna Janmabhoomi Temple, and the Dwarkadhish Temple. Pilgrims and tourists visit this site to pay their respects, seek blessings, and explore the rich mythology and history associated with Lord Krishna. The complex holds cultural and religious importance and is an essential destination for those interested in Hindu spirituality and heritage."
       ],
       [
         "St. Angelo Fort",
@@ -608,7 +636,8 @@ class Backend {
         "",
         "",
         "Kannur",
-        "Kerala"
+        "Kerala",
+        "St. Angelo Fort, situated in Kannur, Kerala, is a historical marvel steeped in colonial history. Originally built by the Portuguese in the late 15th century, it later passed into the hands of the Dutch and then the British. The fort is an enduring symbol of the region's colonial past and strategic importance. It stands as a testament to the architectural and engineering prowess of its time, with well-preserved bastions, secret tunnels, and a majestic lighthouse. Today, St. Angelo Fort is a popular tourist destination, attracting visitors with its captivating history, stunning sea views, and serene ambiance along the Arabian Sea coast."
       ],
       [
         "Basilica of Bom Jesus",
@@ -623,7 +652,8 @@ class Backend {
         "",
         "http://bomjesus.org",
         "Old Goa",
-        "Goa"
+        "Goa",
+        "The Basilica of Bom Jesus, located in Old Goa, India, is a UNESCO World Heritage Site and a remarkable example of Baroque architecture. Constructed in the 16th century, it is one of the oldest churches in India and holds immense historical and religious significance. The basilica houses the mortal remains of St. Francis Xavier, a revered Christian missionary. Its opulent interior, adorned with intricately carved woodwork and elegant paintings, showcases the grandeur of Portuguese colonial architecture. Pilgrims and tourists from around the world visit this sacred site to pay their respects and admire the artistry and history it preserves."
       ],
       [
         "Agra Fort",
@@ -638,7 +668,8 @@ class Backend {
         "",
         "https://www.asiagracircle.in/agra-fort.html",
         "Agra",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "Agra Fort, also known as the Red Fort of Agra, is a UNESCO World Heritage Site located in Agra, Uttar Pradesh, India. This historic fort holds immense significance as it served as the main residence of the Mughal emperors for generations, including Emperor Akbar. Constructed primarily from red sandstone, the fort's impressive architecture combines Persian and Indian styles. Inside its massive walls, you'll find a complex of beautiful palaces, mosques, and courtyards. One of its most iconic features is the Diwan-i-Am, where the emperor held public audiences. Agra Fort is a testament to India's rich Mughal history and is a must-visit for history and architecture enthusiasts."
       ],
       [
         "Anchuthengu",
@@ -653,7 +684,8 @@ class Backend {
         "",
         "",
         "Thiruvananthapuram",
-        "Kerala"
+        "Kerala",
+        "Anchuthengu, also known as Anjengo, is a coastal town located in the state of Kerala, India. It holds historical significance as it was one of the first settlements established by the British East India Company in the 17th century. The town is situated along the Arabian Sea and features well-preserved colonial-era structures, including a fort and a cemetery. Anchuthengu offers a glimpse into India's colonial past, attracting history enthusiasts and tourists seeking a tranquil seaside destination. Its picturesque beaches and serene ambiance make it a popular spot for those looking to escape the hustle and bustle of urban life and explore a slice of Kerala's colonial heritage."
       ],
       [
         "Humayun's Tomb",
@@ -668,7 +700,8 @@ class Backend {
         "",
         "http://delhitourism.gov.in/delhitourism/tourist_place/humayun_tomb.jsp",
         "New Delhi",
-        "Delhi"
+        "Delhi",
+        "Humayun's Tomb, located in Delhi, India, is a magnificent Mughal-era mausoleum and a UNESCO World Heritage Site. Built in the mid-16th century, it is a prime example of Mughal architecture and served as an architectural precursor to the Taj Mahal. The tomb is the final resting place of Emperor Humayun and features a stunning garden complex, intricate white marble lattice screens, and a massive red sandstone structure. It is known for its symmetrical design and grandeur, drawing visitors and historians from around the world. Humayun's Tomb stands as a testament to the Mughal dynasty's architectural prowess and historical significance."
       ],
       [
         "Jallianwala Bagh",
@@ -683,7 +716,8 @@ class Backend {
         "",
         "",
         "Amritsar",
-        "Punjab"
+        "Punjab",
+        "Jallianwala Bagh is a poignant historical site in Amritsar, India. It gained notoriety on April 13, 1919, when British troops under General Dyer opened fire on a peaceful gathering of Indians, killing hundreds and injuring many more. This brutal event marked a dark chapter in India's struggle for independence. Today, Jallianwala Bagh serves as a memorial, preserving the memory of those who lost their lives in the massacre. Visitors can see the bullet marks on the walls and a martyrs' well. It stands as a reminder of the sacrifices made during the fight for freedom and a testament to the resilience of the Indian people."
       ],
       [
         "Kalka–Shimla railway",
@@ -698,7 +732,8 @@ class Backend {
         "",
         "http://www.kalkashimlarailway.in/",
         "Shimla",
-        "Himachal Pradesh"
+        "Himachal Pradesh",
+        "The Kalka-Shimla Railway is a picturesque narrow-gauge railway line in India, connecting Kalka in Haryana to Shimla in Himachal Pradesh. Spanning about 96 kilometers, it winds through the breathtaking Himalayan foothills. This UNESCO World Heritage Site is famous for its 103 tunnels, 864 bridges, and stunning mountain vistas. It was constructed during British colonial rule and remains an engineering marvel. The train journey offers passengers a captivating experience as it chugs through lush forests, charming villages, and steep gradients. The Kalka-Shimla Railway is not just a transportation route; it's a delightful excursion through some of India's most stunning natural landscapes."
       ],
       [
         "Konark Sun Temple",
@@ -713,7 +748,8 @@ class Backend {
         "",
         "http://konark.nic.in/",
         "Konark",
-        "Odisha"
+        "Odisha",
+        "The Konark Sun Temple, a UNESCO World Heritage Site in Odisha, India, is a 13th-century Hindu temple dedicated to the sun god Surya. It is built in the shape of a giant chariot with twelve pairs of wheels drawn by seven horses, and is made of red sandstone decorated with intricate carvings and sculptures. The most famous sculpture is the colossal statue of Surya, carved out of a single block of stone. The Konark Sun Temple is a must-see for anyone interested in Indian history, culture, and art, and is also a popular pilgrimage site for Hindus."
       ],
       [
         "Mamallapuram",
@@ -728,7 +764,8 @@ class Backend {
         "",
         "",
         "Mamallapuram",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "Mamallapuram, a UNESCO World Heritage Site in Tamil Nadu, India, is known for its collection of 7th- and 8th-century Hindu rock-cut monuments. The most famous monument is the Shore Temple, a two-storied temple dedicated to Shiva and Vishnu. Other notable monuments include Arjuna's Penance, the Pancha Rathas, and the Varaha Cave Temple. Mamallapuram is a popular tourist destination and a place of pilgrimage for Hindus."
       ],
       [
         "Mahabodhi Temple",
@@ -743,7 +780,8 @@ class Backend {
         "",
         "",
         "Bodh Gaya",
-        "Bihar"
+        "Bihar",
+        "The Mahabodhi Temple, a UNESCO World Heritage Site in Bodh Gaya, India, is one of the most sacred Buddhist pilgrimage sites in the world, as it is believed to be the place where Gautama Buddha attained enlightenment. The temple was built in the 6th century AD by the Gupta emperor Ashoka and is known for its intricate carvings and sculptures. The temple complex also includes the Bodhi Tree and the Vajrasana. The Mahabodhi Temple is a must-see for anyone interested in Buddhism, Indian history, and culture."
       ],
       [
         "Mahamaham tank, Kumbakonam",
@@ -758,7 +796,8 @@ class Backend {
         "",
         "",
         "Kumbakonam",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "The Mahamaham tank, a sacred tank in Kumbakonam, India, is said to have been created by the god Brahma and is the confluence of nine sacred rivers. It is the site of the Mahamaham festival, a major religious event that attracts millions of pilgrims every 12 years. The Mahamaham tank is also a popular tourist destination, surrounded by a number of temples."
       ],
       [
         "Mattancherry Palace",
@@ -773,7 +812,8 @@ class Backend {
         "",
         "",
         "Kochi",
-        "Kerala"
+        "Kerala",
+        "Mattancherry Palace, a UNESCO World Heritage Site in Kochi, India, was built in the 16th century by the Portuguese and later captured by the Dutch. The palace is a two-storied building with a central courtyard, made of red laterite stone and decorated with intricate carvings and sculptures. The palace is also notable for its murals, which depict scenes from Hindu mythology and the history of Kochi. The Mattancherry Palace is a must-see for anyone interested in Indian history, culture, and art."
       ],
       [
         "Palakkad Fort",
@@ -788,7 +828,8 @@ class Backend {
         "",
         "",
         "Palakkad",
-        "Kerala"
+        "Kerala",
+        "Palakkad Fort, a historic fort in Palakkad, India, was built in the 16th century by the Vijayanagara Empire, but was later captured by the Tipu Sultan in the 18th century. The fort is considered to be one of the finest examples of military architecture in Kerala. The fort is made of red laterite stone and is surrounded by a deep moat. It has a number of gates and bastions. The Palakkad Fort is a popular tourist destination and a place of historical significance."
       ],
       [
         "Pancha Rathas",
@@ -803,7 +844,8 @@ class Backend {
         "",
         "",
         "Mamallapuram",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "The Pancha Rathas, a group of five monolithic rock-cut temples in Mahabalipuram, India, are considered to be one of the finest examples of Pallava rock-cut architecture. The temples are named after the five Pandavas and their common wife Draupadi, from the epic Mahabharata, and are dedicated to various aspects of Shiva. The Pancha Rathas are carved out of a single block of granite and are decorated with intricate carvings and sculptures. The temples are also notable for their unique architecture, which is a blend of Dravidian and North Indian styles. The Pancha Rathas are a must-see for anyone interested in Indian history, culture, and art."
       ],
       [
         "Qutb Minar complex",
@@ -818,7 +860,8 @@ class Backend {
         "",
         "http://delhitourism.gov.in/delhitourism/tourist_place/qutab_minar.jsp",
         "New Delhi",
-        "Delhi"
+        "Delhi",
+        "The Qutb Minar complex, a UNESCO World Heritage Site in Delhi, India, is a collection of monuments and buildings from the Delhi Sultanate. It is named after the Qutb Minar, a 73-meter-tall minaret that is the tallest brick minaret in the world. Other important monuments in the complex include the Quwwat-ul-Islam Mosque, the Tomb of Iltutmish, and the Alai Darwaza. The Qutb Minar complex is a significant historical and cultural site and a must-see for anyone interested in Indian history and culture."
       ],
       [
         "Qutb Minar",
@@ -833,7 +876,8 @@ class Backend {
         "",
         "",
         "New Delhi",
-        "Delhi"
+        "Delhi",
+        "The Qutb Minar, a UNESCO World Heritage Site in Delhi, India, is a 73-meter-tall tapered minaret built between 1199 and 1220 by Qutb-ud-din Aybak, the first Muslim ruler of Delhi. It is made of red sandstone and marble and has five storeys, each with a projecting balcony. The Qutb Minar was built to commemorate Qutb-ud-din Aybak's victory over the last Hindu kingdom in northern India and is a symbol of Muslim power and authority in India. The Qutb Minar is a popular tourist destination and a place of worship for Muslims."
       ],
       [
         "Rani ki vav",
@@ -848,7 +892,8 @@ class Backend {
         "",
         "",
         "Gujarat",
-        "Gujarat"
+        "Gujarat",
+        "Rani ki Vav, a UNESCO World Heritage Site in Patan, India, is a stepwell built in the 11th century AD by Rani Udayamati. It is 73 meters long and 27 meters wide, with seven levels and over 500 steps. The walls are decorated with intricate carvings and sculptures depicting Hindu deities, mythological scenes, and everyday life in the 11th century. Rani ki Vav was originally built to provide water for the people of Patan, but it also served as a religious and social gathering place. It was abandoned in the 14th century and rediscovered in 1948. Rani ki Vav is a masterpiece of Indian art and architecture and a must-see for anyone interested in Indian history, culture, and art."
       ],
       [
         "Patan Black Taj Mahal",
@@ -863,7 +908,8 @@ class Backend {
         "",
         "",
         "Agra",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "The Black Taj Mahal, also known as Tomb of Shah Nawaz Khan, is a black marble mausoleum in Burhanpur, India, built in the 16th century by the Mughal emperor Akbar in memory of his son-in-law, Shah Nawaz Khan. It is similar to the Taj Mahal in Agra, but smaller and less ornate, and is made of black marble. The Black Taj Mahal is a popular tourist attraction, a pilgrimage site for Muslims, and a UNESCO World Heritage Site."
       ],
       [
         "Buddha Statue of Hyderabad",
@@ -878,7 +924,8 @@ class Backend {
         "",
         "",
         "Hyderabad",
-        "Telangana"
+        "Telangana",
+        "The Buddha Statue of Hyderabad is a monolithic statue of Gautama Buddha located on Rock of Gibraltar, in the middle of Hussain Sagar Lake in Hyderabad, India. It is the world's tallest monolith of Buddha, standing at 58 feet (18 meters) tall and weighing over 350 tons. The statue was commissioned by the then Chief Minister of Andhra Pradesh, N. T. Rama Rao, and was unveiled in 1989 to commemorate the 2550th birth anniversary of Gautama Buddha. The Buddha Statue is a popular tourist attraction and a pilgrimage site for Buddhists, and a symbol of peace and harmony in Hyderabad."
       ],
       [
         "Cave Temples of Mahabalipuram",
@@ -893,7 +940,8 @@ class Backend {
         "",
         "",
         "Mamallapuram",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "The Cave Temples of Mahabalipuram are a collection of seven rock-cut temples in Mahabalipuram, India, dating back to the 7th century AD. They are a UNESCO World Heritage Site and are considered to be one of the finest examples of Pallava rock-cut architecture. The most famous Cave Temple is the Varaha Cave Temple, which depicts the Hindu god Vishnu rescuing the Earth goddess Bhudevi from the cosmic ocean. Other notable Cave Temples include the Mahishasuramardini Cave Temple and the Shore Temple. The Cave Temples of Mahabalipuram are a must-see for anyone interested in Indian history, culture, and art."
       ],
       [
         "Chhatrapati Shivaji Terminus",
@@ -908,7 +956,8 @@ class Backend {
         "",
         "https://cr.indianrailways.gov.in/",
         "Mumbai",
-        "Maharashtra"
+        "Maharashtra",
+        "Chhatrapati Shivaji Maharaj Terminus (CST), formerly Victoria Terminus, is a historic railway station and UNESCO World Heritage Site in Mumbai, India. It is a Victorian Gothic Revival architectural masterpiece and a major transportation hub for the city. The station is known for its stunning architecture, historical significance, and intricate carvings and sculptures. CST is a truly unique and iconic building and a must-see for anyone visiting Mumbai."
       ],
       [
         "Darjeeling Himalayan Railway",
@@ -923,7 +972,8 @@ class Backend {
         "",
         "",
         "Darjeeling",
-        "West Bengal"
+        "West Bengal",
+        "The Darjeeling Himalayan Railway (DHR), also known as the Toy Train, is a UNESCO World Heritage Site and one of the most popular tourist attractions in India. It is a 610 mm (2 ft) narrow gauge railway that runs between New Jalpaiguri and Darjeeling. The train journey takes about 7 hours and passes through stunning scenery, including tea plantations, forests, and mountains. The DHR is a popular choice for tourists and pilgrims alike."
       ],
       [
         "Descent of the Ganges (Mahabalipuram)",
@@ -938,7 +988,8 @@ class Backend {
         "",
         "",
         "Mamallapuram",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "The Descent of the Ganges, a 7th-century AD rock relief at Mahabalipuram, India, depicts the Hindu legend of the descent of the Ganges River from heaven to earth. The relief is divided into two main sections: the upper section depicts the gods and goddesses of the Hindu pantheon, and the lower section depicts the Ganges River descending from heaven to earth. The relief is a masterpiece of Indian art and a significant religious site for Hindus."
       ],
       [
         "Elephanta Caves",
@@ -953,7 +1004,8 @@ class Backend {
         "",
         "",
         "Gharapuri",
-        "Maharashtra"
+        "Maharashtra",
+        "Elephanta Caves, a UNESCO World Heritage Site, is a collection of five rock-cut Hindu cave temples on Elephanta Island in Mumbai Harbour, India. Built between the 5th and 7th centuries AD, the caves contain a variety of sculptures, reliefs, and paintings that depict Hindu mythology and iconography. The most famous sculpture is the Trimurti, a three-faced statue of Shiva. Other notable sculptures include the Ardhanarishvara, Nataraja, and Yogishvara. The caves are a must-see for anyone visiting Mumbai."
       ]
     ];
   }

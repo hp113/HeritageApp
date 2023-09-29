@@ -38,12 +38,9 @@ dependencies:
   flutter_native_splash: ^2.3.2
 
 flutter_native_splash:
-  android: true
-  ios: true
-  web: true
-
-  background image: "assets/images/Welcome.png"
+  background_image: "assets/images/Welcome.png"
   color: "42a5f5"
+  android: true
 
 dev_dependencies:
   flutter_test:
