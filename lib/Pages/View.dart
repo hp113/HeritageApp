@@ -15,7 +15,7 @@ class ViewPage extends StatefulWidget {
 
 class _ViewPageState extends State<ViewPage> {
   List<List<String>> data = Backend().data();
-  String state = "Tamil Nadu";
+  String state = "";
   late List<List<String>> dataOfState = getSelectedState(data, state);
   List<List<String>> getSelectedState(data, state) {
     List<List<String>> selectedState = [];
@@ -30,6 +30,18 @@ class _ViewPageState extends State<ViewPage> {
   @override
   Widget build(BuildContext context) {
     print(dataOfState);
+    Map<String, String> stats =
+        ModalRoute.of(context)!.settings.arguments as Map<String, String>;
+    print(stats.toString());
+    setState(() {
+      state = stats
+          .toString()
+          .substring(8)
+          .replaceAll("}", ""); // dataOfState[0][12
+      print(state);
+      dataOfState = getSelectedState(data, state);
+      // print(state);
+    });
     return Scaffold(
       appBar: AppBar(
         title: Center(child: Text(state)),
@@ -57,7 +69,8 @@ class _ViewPageState extends State<ViewPage> {
               dataOfState[index][1].isEmpty
                   ? ClipRRect(
                       borderRadius: BorderRadius.circular(20),
-                      child: Image.network("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzUgFv6khCUQlS_H9DjjNbd4L6LERzybZ9A&usqp=CAU",
+                      child: Image.network(
+                          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzUgFv6khCUQlS_H9DjjNbd4L6LERzybZ9A&usqp=CAU",
                           width: MediaQuery.of(context).size.width * 0.5,
                           height: MediaQuery.of(context).size.width * 0.5,
                           fit: BoxFit.fill),

@@ -38,9 +38,9 @@ class _HeritageAppState extends State<HeritageApp> {
               brightness: Brightness.light)),
       initialRoute: MyRoutes.home,
       routes: {
-        MyRoutes.home: (context) => HomePage(),
-        MyRoutes.splashScreen: (context) => SplashScreen(),
+        MyRoutes.home: (context) => SplashScreen(),
         MyRoutes.view: (context) => ViewPage(),
+        // MyRoutes.splashScreen: (context) => SplashScreen()
       },
     );
   }
